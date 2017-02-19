@@ -1,2 +1,2 @@
 # The-C-Program-Language
-第二版书中联系答案
+第二版书中练习答案
